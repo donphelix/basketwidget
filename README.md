@@ -53,8 +53,8 @@ The project is designed to simulate a sales system for Acme Widget Co. It includ
 
 1. **Clone the repository**:
     ```bash
-    git clone <repository_url>
-    cd my_project
+    git@github.com:donphelix/basketwidget.git
+    cd widget
     ```
 
 2. **Install dependencies**:
