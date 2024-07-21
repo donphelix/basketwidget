@@ -1,0 +1,21 @@
+{
+    "name": "donphelix/widget",
+    "description": "just a test",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^11.2",
+        "phpstan/phpstan": "^1.11",
+        "psr/container": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Donphelix\\Widget\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Don Phelix",
+            "email": "141995407+dondevteam@users.noreply.github.com"
+        }
+    ]
+}
